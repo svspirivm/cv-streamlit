@@ -118,7 +118,7 @@ with col_proj:
         vision models within the processing pipeline to achieve seamless 
         multimodal analysis for autonomous video editing;
         - Integrated external service access capabilities, enabling the 
-        leveraging of insights from multimodal analysis for the 
+        leveraging of multimodal analysis insights for the 
         retrieval of relevant data for enhancing dynamic content in video editing;
         - Deployed the product to Microsoft Azure Platform and configured the cloud
         environment for batch video processing.
