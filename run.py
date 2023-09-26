@@ -118,10 +118,13 @@ with col_proj:
         vision models within the processing pipeline to achieve seamless 
         multimodal analysis for autonomous video editing;
         - Integrated external service access capabilities, enabling the 
-        leveraging of multimodal analysis insights for the 
-        retrieval of relevant data for enhancing dynamic content in video editing;
-        - Deployed the product to Microsoft Azure Platform and configured the cloud
-        environment for batch video processing.
+        leveraging of multimodal analysis insights for the retrieval of 
+        relevant data for enhancing dynamic content in video editing;
+        - Evaluated algorithmic performance towards achieving human-level 
+        efficacy, generating innovative ideas for system improvement 
+        and new feature development;
+        - Deployed the product to Microsoft Azure Platform and configured 
+        the cloud environment for batch video processing.
         """
     )
 
@@ -135,24 +138,31 @@ with col_proj:
         """
         - Developed algorithms for product detection and recognition 
         in densely packed setups;
-        - Designed deep learning models 
-            for stock keeping units placement optimization;
-        - Employed metric learning techniques to create an embedded model for 
-        large-scale object detection and search;
+        - Designed deep learning models for stock keeping unit placement 
+        optimization;
+        - Employed metric learning techniques to create an embedded model 
+        for large-scale object detection and search;
+        - Applied classical CV techniques and multiview geometry principles 
+        to address complex rotations and frame transformations;
         - Built Google Cloud Platform pipelines to orchestrate ML workflows.
         """
     )
 
 
-right.write(":construction: **AR Makeup Try-On**")
+right.write(":construction: **AR Makeup Try-On Application**")
 _, col_proj = right.columns([1, 15])
 with col_proj:
     col_proj.write(
         """
-        - Developed a real-time instance segmentation model optimized for mobile devices;
-        - Curated collection and integration of custom data to enhance model robustness;
-        - Established pipelines for computer vision model training and evaluation;
-        - Designed evaluation protocols to assess model performance 
+        - Developed a real-time instance segmentation model optimized 
+        for mobile devices;
+        - Integrated 3D face mesh technology to enhance real-time 
+        recognition and tracking capabilities;
+        - Curated collection and integration of custom datasets to 
+        enhance model robustness;
+        - Established pipelines for computer vision model training 
+        and evaluation;
+        - Designed evaluation protocols to assess model performance
         and identify improvement opportunities.
         """
     )
@@ -162,11 +172,13 @@ _, col_proj = right.columns([1, 15])
 with col_proj:
     col_proj.write(
         """
-        - Conducted extensive research in the domain field, leveraging insights 
+        - Conducted extensive domain research, actively collaborating 
+        with the customer’s industry experts and leveraging insights 
         from pertinent literature to address project-specific challenges;
-        - Devised experiments and data augmentation techniques to maximize limited data utilization;
-        - Presented updates to the customer, using their 
-        domain expertise to refine implementation process;
-        - Collaborated with cross-functional teams to streamline the product development.
+        - Devised experiments and data augmentation techniques to 
+        maximize limited data utilization;
+        - Presented findings, methodologies, and results to both 
+        technical and non-technical stakeholders effectively 
+        to streamline the product development.
         """
     )
