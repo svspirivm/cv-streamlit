@@ -39,8 +39,8 @@ col_name.write(":telephone_receiver: +5491154931032")
 
 col_name.markdown(
     """
-        <a href='https://wa.me/5491154931032'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white' alt='WhatsApp' height='25'>
         <a href='https://t.me/deadchicsocool'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white' alt='Telegram' height='25'></a>
+        <a href='https://wa.me/5491154931032'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white' alt='WhatsApp' height='25'></a>
         <a href='https://www.linkedin.com/in/kseniya-shymborskaya-4058b61b0/'><img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white' alt='LinkedIn' height='25'></a>
         <a href='https://github.com/svspirivm'><img src='https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white' alt='GitHub' height='25'></a>
     """, 
@@ -124,7 +124,7 @@ with col_proj:
         efficacy, generating innovative ideas for system improvement 
         and new feature development;
         - Deployed the product to Microsoft Azure Platform and configured 
-        the cloud environment for batch video processing.
+        the cloud architecture for batch video processing.
         """
     )
 
